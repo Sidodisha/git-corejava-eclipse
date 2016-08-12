@@ -17,6 +17,7 @@ public class FullDiamond {
 		int size = 5;
 		int odd = 1;
 		int spaces = size/2;
+		System.out.println("Here is the Full Diamond");
 		for (int j = 1; j <= size; j++) {
 			for (int i = spaces; i >= 1; i--) {
 				System.out.print(" ");
