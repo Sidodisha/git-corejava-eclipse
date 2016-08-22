@@ -14,7 +14,7 @@ public class Pattern1 {
 		*   * 
 		*****
 		*/  
-		
+		System.out.println("This is added");
 		for (int i = 1; i <= 5; i++) {
 			System.out.print("*");
 		}
